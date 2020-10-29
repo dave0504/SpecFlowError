@@ -24,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Outside.OrderStreamSync.csproj" />
+    <ProjectReference Include="..\Outside.OrderStreamSync\Outside.OrderStreamSync.csproj" />
   </ItemGroup>
 
 </Project>
