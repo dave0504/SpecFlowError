@@ -1,0 +1,4 @@
+C:\repositories\TDD\Outside.OrderStreamSync\obj\Debug\netcoreapp3.1\Outside.OrderStreamSync.AssemblyInfoInputs.cache
+C:\repositories\TDD\Outside.OrderStreamSync\obj\Debug\netcoreapp3.1\Outside.OrderStreamSync.AssemblyInfo.cs
+C:\repositories\TDD\Outside.OrderStreamSync\obj\Debug\netcoreapp3.1\Outside.OrderStreamSync.csproj.CoreCompileInputs.cache
+C:\repositories\TDD\Outside.OrderStreamSync\obj\Debug\netcoreapp3.1\Outside.OrderStreamSync.csprojAssemblyReference.cache
